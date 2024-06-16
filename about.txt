@@ -1,0 +1,27 @@
+YouTube Comment Suite 1.4.8
+
+Export date: 2024.05.28 15.32.14
+
+Search settings json:
+{
+  "withGroup": "a740a4507d442f85a22807409455fe61 / migracion",
+  "groupLastRefreshed": "2024-05-28T14:01:12.260",
+  "withGroupItem": "All Item(s)",
+  "withVideos": "All Video(s)",
+  "order": "MOST_LIKES",
+  "commentsType": "ALL",
+  "nameLike": "",
+  "textLike": "",
+  "hasTags": "",
+  "dateFrom": {
+    "year": 1970,
+    "month": 1,
+    "day": 1
+  },
+  "dateTo": {
+    "year": 2024,
+    "month": 5,
+    "day": 28
+  },
+  "totalResults": 11289
+}
